@@ -39,66 +39,7 @@ const freelances = [
 		available: false,
 		tjm: 650
 	},
-	{
-		id: '5',
-		name: 'Clément Rolland',
-		job: 'Développeur mobile',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/5.jpeg',
-		skills: ['IOS', 'Android'],
-		location: 'Lyon',
-		available: false,
-		tjm: 450
-	},
-	{
-		id: '6',
-		name: 'Grégoire Chevalier',
-		job: 'Développeur backend',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/6.jpeg',
-		skills: ['Python', 'Django', 'Docker'],
-		location: 'Paris',
-		available: true,
-		tjm: 510
-	},
-	{
-		id: '7',
-		name: 'Raphaël Rodriguez',
-		job: 'Designer',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/7.jpeg',
-		skills: ['Sketch', 'Illustrator'],
-		location: 'Paris',
-		available: true,
-		tjm: 480
-	},
-	{
-		id: '8',
-		name: 'Hugo Vysa',
-		job: 'Développeur frontend',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/8.jpeg',
-		skills: ['SEO', 'Javascript Vanilla'],
-		location: 'Toulouse',
-		available: false,
-		tjm: 560
-	},
-	{
-		id: '9',
-		name: 'Mina Toman',
-		job: 'Développeuse Mobile',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/11.jpeg',
-		skills: ['Android', 'React Native'],
-		location: 'Bayonne',
-		available: true,
-		tjm: 630
-	},
-	{
-		id: '10',
-		name: 'Amélie Leroy',
-		job: 'Développeuse backend',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/12.jpeg',
-		skills: ['Node.js', 'Express', 'Docker'],
-		location: 'Paris',
-		available: false,
-		tjm: 400
-	},
+
 
 	
 ]
