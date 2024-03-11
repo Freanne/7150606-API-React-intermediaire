@@ -3,7 +3,7 @@ const freelances = [
 		id: '1',
 		name: 'Julien Brun',
 		job: 'Développeur mobile',
-		picture: 'http://https://api-deployed-react-shiny-agency.onrender.com/images/4.jpeg',
+		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/4.jpeg',
 		skills: ['React Native'],
 		location: 'Lyon',
 		available: true,
