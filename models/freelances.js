@@ -99,16 +99,7 @@ const freelances = [
 		available: false,
 		tjm: 400
 	},
-	{
-		id: '11',
-		name: 'Maxime Lebrun',
-		job: 'Intégrateur SEO',
-		picture: 'http://api-deployed-react-shiny-agency.onrender.com/images/9.jpeg',
-		skills: ['SEO'],
-		location: 'Rennes',
-		available: false,
-		tjm: 600
-	},
+
 	
 ]
 
